@@ -51,3 +51,7 @@ This should redirect you to your browser but if not, you can type `localhost:888
 or whatever number the output tells you to go to, and it will show you a nice
 interface with all the files in it including the .ipyb files, which you can
 double click to open.
+
+## Further Reading
+If you want to experiment more, I highly recommend getting a copy of 
+Hands-On Machine Learning with Scikit-Learn and Tensorflow by Aurelien Geron.
